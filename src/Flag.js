@@ -110,6 +110,7 @@ export default React.createClass({
         }
         width={this.props.width}
         height={this.props.height}
+        title={altText}
       />
     );
   }
